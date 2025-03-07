@@ -1,1 +1,1 @@
-Making things easier, becuase typing is hard.
+Making things easier, because typing is hard.
